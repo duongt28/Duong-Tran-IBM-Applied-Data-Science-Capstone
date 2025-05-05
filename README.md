@@ -32,6 +32,8 @@ Model Evaluation: Evaluated each model's performance on the test data to identif
 Results
 Decision Tree Classifier: Achieved the highest accuracy of 0.9444 on the test set, making it the best-performing model.
 SVM and K-Nearest Neighbors: Both models attained an accuracy of 0.8333 on the test set.
+
+
 Conclusion
 Through meticulous data analysis, feature engineering, and model tuning, this project successfully predicted the landing success of the Falcon 9 first stage. The insights gained are invaluable for estimating launch costs and aiding companies in their competitive bids against SpaceX.
 
